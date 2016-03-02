@@ -1,0 +1,19 @@
+{
+  "name": "MauroDarioLunaAyalaApp",
+  "homepage": "https://github.com/mdla/cv_mauro",
+  "authors": [
+    "Mauro Dario Luna Ayala <mdla.2004@gmail.com>"
+  ],
+  "description": "Aplicacion de android",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
